@@ -59,8 +59,7 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-
-    font-size: var(--textFont1);
+    font-size: 25px;
 }
 
 .input_div {
@@ -71,8 +70,6 @@
     justify-content: center;
     flex-direction: column;
 
-    font-size: var(--textFont2);
-
 }
 
 .Login_Button {
@@ -82,8 +79,6 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-
-    font-size: var(--textFont2);
 }
 
 .custom-btn:hover {
@@ -103,8 +98,8 @@
     width: 80%;
     height: 40px;
     color: #fff;
+    font-size: 20px;
     background-color: #36b8f5;
-    /* padding: 10px 25px; */
     font-weight: 500;
     border: 0;
     outline: none;
